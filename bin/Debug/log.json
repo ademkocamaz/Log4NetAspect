@@ -1,0 +1,18 @@
+{
+  "DateTime": "2022-04-29T22:21:27.2018803+03:00",
+  "Username": "Sony\\Adem",
+  "MessageObject": {
+    "FullName": "TestClass",
+    "MethodName": "TestMethod",
+    "Paramaters": []
+  }
+}
+{
+  "DateTime": "2022-04-29T22:21:27.8379167+03:00",
+  "Username": "Sony\\Adem",
+  "MessageObject": {
+    "FullName": "TestClass",
+    "MethodName": "Test2Method",
+    "Paramaters": []
+  }
+}
