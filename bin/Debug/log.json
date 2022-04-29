@@ -1,5 +1,5 @@
 {
-  "DateTime": "2022-04-29T22:21:27.2018803+03:00",
+  "DateTime": "2022-04-29T23:41:00.5168983+03:00",
   "Username": "Sony\\Adem",
   "MessageObject": {
     "FullName": "TestClass",
@@ -8,7 +8,79 @@
   }
 }
 {
-  "DateTime": "2022-04-29T22:21:27.8379167+03:00",
+  "DateTime": "2022-04-29T23:41:00.7999145+03:00",
+  "Username": "Sony\\Adem",
+  "MessageObject": {
+    "FullName": "TestClass",
+    "MethodName": "Test2Method",
+    "Paramaters": []
+  }
+}
+{
+  "DateTime": "2022-04-29T23:42:55.116453+03:00",
+  "Username": "Sony\\Adem",
+  "MessageObject": {
+    "FullName": "TestClass",
+    "MethodName": "TestMethod",
+    "Paramaters": []
+  }
+}
+{
+  "DateTime": "2022-04-29T23:42:55.3404658+03:00",
+  "Username": "Sony\\Adem",
+  "MessageObject": {
+    "FullName": "TestClass",
+    "MethodName": "Test2Method",
+    "Paramaters": []
+  }
+}
+{
+  "DateTime": "2022-04-29T23:43:26.5292497+03:00",
+  "Username": "Sony\\Adem",
+  "MessageObject": {
+    "FullName": "TestClass",
+    "MethodName": "TestMethod",
+    "Paramaters": []
+  }
+}
+{
+  "DateTime": "2022-04-29T23:43:26.761263+03:00",
+  "Username": "Sony\\Adem",
+  "MessageObject": {
+    "FullName": "TestClass",
+    "MethodName": "Test2Method",
+    "Paramaters": []
+  }
+}
+{
+  "DateTime": "2022-04-29T23:43:38.4739329+03:00",
+  "Username": "Sony\\Adem",
+  "MessageObject": {
+    "FullName": "TestClass",
+    "MethodName": "TestMethod",
+    "Paramaters": []
+  }
+}
+{
+  "DateTime": "2022-04-29T23:43:38.7099464+03:00",
+  "Username": "Sony\\Adem",
+  "MessageObject": {
+    "FullName": "TestClass",
+    "MethodName": "Test2Method",
+    "Paramaters": []
+  }
+}
+{
+  "DateTime": "2022-04-29T23:43:55.1298856+03:00",
+  "Username": "Sony\\Adem",
+  "MessageObject": {
+    "FullName": "TestClass",
+    "MethodName": "TestMethod",
+    "Paramaters": []
+  }
+}
+{
+  "DateTime": "2022-04-29T23:43:55.3718994+03:00",
   "Username": "Sony\\Adem",
   "MessageObject": {
     "FullName": "TestClass",
